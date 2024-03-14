@@ -1,1 +1,1 @@
-course_work_django
+coursework_django
